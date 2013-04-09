@@ -12,3 +12,5 @@ BTC: [1CdzakhzxS5QMfe9bM6KZapNWbFtfNKimx](bitcoin:1CdzakhzxS5QMfe9bM6KZapNWbFtfN
 Okay, I'll also take [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G2M23XDAB8HBA)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/LegenaryFaucetPayout.png?branch=master)](https://travis-ci.org/PartTimeLegend/LegenaryFaucetPayout)
